@@ -5,7 +5,7 @@
   "main": "index.js",
   "dependencies": {},
   "devDependencies": {
-    "gulp": "^3.9.1",
+    "gulp": "^4.0.2",
     "gulp-help": "^1.6.1",
     "gulp-sequence": "^1.0.0",
     "node-cmd": "^3.0.0",
